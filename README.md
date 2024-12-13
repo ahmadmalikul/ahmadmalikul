@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Program Sistem Pengolahan Sinyal
 
 <!--
 **ahmadmalikul/ahmadmalikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
